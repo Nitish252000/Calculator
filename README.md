@@ -8,8 +8,8 @@ Welcome to the Calculator Project! This is a simple web-based calculator built u
 
 ## Installation
 To run the calculator locally, follow these steps:
-* Clone the repository: git clone https://github.com/yourusername/calculator.git
-* Navigate to the project directory: cd calculator
+* Clone the repository: git clone https://github.com/Nitish252000/Calculator.git
+* Navigate to the project directory: cd Calculator
 * Open the index.html file in your browser.
 That's it! You should now see the calculator in action.
 
