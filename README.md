@@ -1,0 +1,1 @@
+Welcome to the Calculator Project! This is a simple web-based calculator built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
